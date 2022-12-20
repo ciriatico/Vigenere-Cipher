@@ -6,7 +6,7 @@ Projeto 1 de Segurança Computacional, disciplina ofertada na Universidade de Br
 
 O programa funciona a base de comandos passados na linha de comandos, com run.py sendo o arquivo principal.
 
-São oferecidas 3 funcionalidades: usar a cifra de Vigenère para encriptar uma mensagem com uma chave; decriptá-la com uma chave; e quebrar a cifra, sem a necessidade de chave, usando a frequência de palavras. O método de frequência de palavras aceita 2 idiomas: inglês americano e português brasileiro.
+São oferecidas 3 funcionalidades: usar a cifra de Vigenère para encriptar uma mensagem com uma chave; decriptá-la com uma chave; e quebrar a cifra, sem a necessidade de chave, usando a frequência de palavras após descobrir possíveis tamanhos de chave através do método de Kasiski. O método de frequência de palavras aceita 2 idiomas: inglês americano e português brasileiro.
 
 Em caso de dúvida de quais argumentos são aceitos, execute o comando:
 
